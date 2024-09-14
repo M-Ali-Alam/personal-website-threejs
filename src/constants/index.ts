@@ -224,15 +224,15 @@ const projects = [
       "Mobile base gamed built using unity that enables users to Build their own furnitures by sticking pre built parts.",
     tags: [
       {
-        name: "react",
+        name: "unity",
         color: "blue-text-gradient",
       },
       {
-        name: "restapi",
+        name: "C#",
         color: "green-text-gradient",
       },
       {
-        name: "scss",
+        name: "mobile game development",
         color: "pink-text-gradient",
       },
     ],
@@ -245,15 +245,15 @@ const projects = [
       "A mobile application platform used to save the historical events. User can create new events and save them in the app.",
     tags: [
       {
-        name: "nextjs",
+        name: "react native",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "mongodb",
         color: "green-text-gradient",
       },
       {
-        name: "css",
+        name: "nodejs",
         color: "pink-text-gradient",
       },
     ],
