@@ -15,11 +15,11 @@ const ServiceCard: FC<{
 }> = ({ index, title, icon }) => {
   return (
     <Tilt
-      options={{
-        max: 25,
-        scale: 1,
-        speed: 450,
-      }}
+      // options={{
+      //   max: 25,
+      //   scale: 1,
+      //   speed: 450,
+      // }}
       className="xs:w-[250px] w-full"
     >
       <motion.div
