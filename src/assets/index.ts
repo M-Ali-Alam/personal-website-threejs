@@ -25,6 +25,10 @@ import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
+import iba from "./company/iba.png";
+import mindstorm from "./company/mindstorm.png";
+import engro from "./company/engro-corp.png";
+import creditbook from "./company/vertical-blue.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -56,6 +60,10 @@ export {
   shopify,
   starbucks,
   tesla,
+  iba,
+  mindstorm,
+  engro,
+  creditbook,
   carrent,
   jobit,
   tripguide,
