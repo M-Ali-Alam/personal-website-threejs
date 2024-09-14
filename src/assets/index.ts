@@ -26,9 +26,9 @@ import mindstorm from "./company/mindstorm.png";
 import engro from "./company/engro-corp.png";
 import creditbook from "./company/vertical-blue.png";
 
-import carrent from "./carrent.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
+import ecommerceapp from "./ecommerceapp.png";
+import historyarchiveapp from "./Historyarchiveapp.png";
+import sedulousFurniture from "./unity3d.png";
 
 export {
   logo,
@@ -56,7 +56,7 @@ export {
   mindstorm,
   engro,
   creditbook,
-  carrent,
-  jobit,
-  tripguide,
+  ecommerceapp,
+  historyarchiveapp,
+  sedulousFurniture,
 };
