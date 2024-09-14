@@ -21,10 +21,6 @@ import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 
-import meta from "./company/meta.png";
-import shopify from "./company/shopify.png";
-import starbucks from "./company/starbucks.png";
-import tesla from "./company/tesla.png";
 import iba from "./company/iba.png";
 import mindstorm from "./company/mindstorm.png";
 import engro from "./company/engro-corp.png";
@@ -56,10 +52,6 @@ export {
   tailwind,
   typescript,
   threejs,
-  meta,
-  shopify,
-  starbucks,
-  tesla,
   iba,
   mindstorm,
   engro,
